@@ -1,5 +1,3 @@
-"# -Mobile-OS-Data" 
-
 git clone https://github.com/narendrabariha/-Mobile-OS-Data.git
 cd -Mobile-OS-Data
 
